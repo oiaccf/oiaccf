@@ -8,8 +8,7 @@
 
 - 🔭 I’d been working on IT field since I was 17, now I'm 32 and my focus is in the Cloud or innovation area.
   I studied the Cloud Microsoft environment through the AZ-900 course, in the Microsoft Virtual Tranning Days, more than once, moreover, I studied the same course in a place Called SENAI, here at Brazil.
-  I studied the AWS CLoud too, with more hands on activities, through the School called Escola Da Nuvem, I made the AWS Restart course that teach about the AWS Cloud Envinronment, and thanks that I
-  could conquer my first Cloud Certificate, AWS Cloud Practitioner.  
+  I studied also, the AWS CLoud, with more hands on activities, through the School called Escola Da Nuvem, I made the AWS Restart course that teach about the AWS Cloud Envinronment, and thanks to Escola Da Nuvem I conquer my first Cloud Certificate, the AWS Cloud Practitioner.  
 
 
  So, I'm here to put my knowledge and learnings in pratice, and to learn with you too.
