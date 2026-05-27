@@ -6,8 +6,8 @@
 
 - 🤔 I’m looking for an entry-level position on the Cloud area, or something related to it.
 
-- 🔭 I’d been working on IT field since I was 17, now I'm 31 and my focus is in the Cloud or innovation area.
-  I studied the Cloud Microsoft environment through the AZ-900 course, in the Microsoft Virtual Tranning Days, more than once, moreover, I studied the same course in a place Called SENAI.
+- 🔭 I’d been working on IT field since I was 17, now I'm 32 and my focus is in the Cloud or innovation area.
+  I studied the Cloud Microsoft environment through the AZ-900 course, in the Microsoft Virtual Tranning Days, more than once, moreover, I studied the same course in a place Called SENAI, here at Brazil.
   I studied the AWS CLoud too, with more hands on activities, through the School called Escola Da Nuvem, I made the AWS Restart course that teach about the AWS Cloud Envinronment, and thanks that I
   could conquer my first Cloud Certificate, AWS Cloud Practitioner.  
 
